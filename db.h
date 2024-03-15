@@ -10,7 +10,7 @@
 #include "protocol.h"
 #include "util.h"
 
-#define MIN_RETRY 1000
+#define MIN_RETRY 60
 
 #define REQUIRE_VERSION 70001
 
