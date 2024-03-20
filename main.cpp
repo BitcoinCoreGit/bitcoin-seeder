@@ -423,7 +423,7 @@ extern "C" void* ThreadStats(void*) {
 }
 
 static const string mainnet_seeds[] = {"node.bitcoincoreseed.de", "node.bitcoinevo.org", ""}; // changeit
-static const string testnet_seeds[] = {"no.one1", ""}; //changeit
+static const string testnet_seeds[] = {"nooneatmfortest.de", ""}; //changeit
 
 
 
